@@ -1,9 +1,4 @@
 # Find Missing Person using AI
-![Issues](https://img.shields.io/github/issues/gaganmanku96/Finding-missing-person-using-AI) ![Stars](https://img.shields.io/github/stars/gaganmanku96/Finding-missing-person-using-AI?style=social)
-
-# [More Projects](https://forms.gle/8MqhSJKavXczLCtA7)
-
-## [Youtube Link](https://www.youtube.com/channel/UC7ln87o0Gt8OkkHIqEmeDQw/videos)
 
 Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
 
@@ -13,13 +8,6 @@ Hundreds of people (especially children go missing every day) in India. There ar
 - ### [Solution](#solution-projects-implementation)
 - ### [Installation](#how-to-run)
 - ### [What is left/not working?](#what-is-left)
-
-## News Articles
-#### [Article 1](https://www.thehindu.com/society/indias-missing-children-what-the-whatsapp-rumours-dont-tell-you/article24641527.ece)
-![News Article 1](resources/news_1.PNG)
-#### [Article 2](https://www.deccanchronicle.com/nation/current-affairs/250518/indias-children-174-go-missing-every-day-half-untraced.html)
-![News Article 2](resources/news_2.PNG)
-
 
 ## What is the objective of this Project and how will it help?
 The objective of this project is to help Police and higher authorities to track down missing people quickly. The usual process to track a person is using investigation which requires time and experience (to ask right questions). Most of the time, investigation method works pretty well but it is time consuming and can be unsuccessful if the person (missing) has been shifted/moved to different location (city/country).<br>
@@ -145,13 +133,3 @@ Once done you'll have to <b>Click on Refresh</b> button on train KNN Model and t
  - [ ] View submitted cases
  - [ ] View confirmed cases
  - [ ] Unit tests
- 
-
-## Developer:
-## <a href="https://www.linkedin.com/in/gaganmanku96/">Gagandeep Singh</a>
-## Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
-
-
-## Vote of Thanks
-- Thanks to [Davis King](https://github.com/davisking) for creating dlib and for providing the trained facial feature
-  detection and face encoding models used in this project.
